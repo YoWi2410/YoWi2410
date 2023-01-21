@@ -7,10 +7,11 @@
 
 ## Education:
 
-#### 1. [Universitas Kristen Krida Wacana](https://ukrida.ac.id/) | Sistem Informasi | Jakarta `2020-Sekarang`
+#### 1. [SMK WIDYA MANGGALA]| Administrasi Perkantoran | Jakarta `2017-2020`
+
+#### 2. [Universitas Kristen Krida Wacana](https://ukrida.ac.id/) | Sistem Informasi | Jakarta `2020-Sekarang`
    - IPK = 3,66
    - Semester 5
- #### 2. [SMK WIDYA MANGGALA]| Administrasi Perkantoran | Jakarta `2017-2020`
 
 ## Skills:
 #### 1. [Membuat Toko Online Batik]  `November 2022 - 18 Januari 2023`
